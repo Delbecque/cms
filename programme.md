@@ -37,7 +37,9 @@ Il est pour les contrôles de police inopinés et les fouilles au corps systéma
 ### Dette des étudiants
 
 La dette des Américains liée au financement de leurs études atteint 1000 milliards de dollars, au point de former une bulle financière menaçant l’ensemble de l’économie. 43 millions d’Américains sont endettés, avec une moyenne de 37 000 $ à rembourser. Barack Obama a mis en place un plan fédéral d’apurement de la dette pour mettre fin à certains prêts aux intérêts abusifs.
+
 ![image](http://www.leparisien.fr/images/2016/09/30/6164417_debt-quadrupled-1.jpg)
+
 **CE QUE PROPOSE TRUMP**
 Il est pour une restructuration de la dette des étudiants, mais en confiant cette mission au système bancaire privé et non à l’administration fédérale.
  
