@@ -72,5 +72,5 @@ La crise des «subprimes» de 2008 a montré la dangerosité des pratiques de Wa
 Il veut démanteler les régulations instaurées par la loi Dodd-Frank après la crise financière de 2008. Bien qu'il estime que «Wall Street a causé d'énormes problèmes», il veut réduire les pouvoirs de tutelle des autorités et laisser les banques réguler le système. Il veut faciliter l'obtention de crédits pour les petites entreprises.
 
 À lire également : 
-Quelles mesures ont déjà été prises ?
+[link](https://delbecque.github.io/cms/campagne)Quelles mesures ont déjà été prises ?
 Trump et le Mexique
