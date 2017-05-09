@@ -1,6 +1,6 @@
 ### Le programme de Trump
 
-Biographie | Campagne et élections | Son programme | L'économie américaine | Sa popularité
+[Biographie](index.md) | [Campagne et élections](campagne.md) | [Son programme](programme.md) | [L'économie américaine](économie.md) | [Sa popularité](popularité.md)
 
 Il se prononce pour un protectionnisme renforcé et la renégociation de traités de libre échange internationaux, trop défavorables aux emplois aux Etats-Unis. Dans son viseur notamment : le traité de libre-échange nord-américain (NAFTA), et le partenariat trans-pacifique (TPP). Il promet aussi de travailler avec le Congrès pour introduire et pousser à l'adoption d'un plan de grands travaux d'infrastructures d'au moins 500 milliards de dollars. Cette politique viserait à créer 25 millions d'emplois sur dix ans, à travers notamment des baisses d'impôts substantielles pour la classe moyenne et les entreprises. Avec l'objectif d'une croissance de 4% par an. Il s'est aussi exprimé en faveur de la relance du charbon et des mines sur le sol américain pour créer des emplois. 
 
@@ -74,5 +74,5 @@ La crise des «subprimes» de 2008 a montré la dangerosité des pratiques de Wa
 Il veut démanteler les régulations instaurées par la loi Dodd-Frank après la crise financière de 2008. Bien qu'il estime que «Wall Street a causé d'énormes problèmes», il veut réduire les pouvoirs de tutelle des autorités et laisser les banques réguler le système. Il veut faciliter l'obtention de crédits pour les petites entreprises.
 
 À lire également : 
-[link](https://delbecque.github.io/cms/campagne)Quelles mesures ont déjà été prises ?
-Trump et le Mexique
+[Quelles mesures ont déjà étéprises ?](PremieresMesures.md)
+[Trump et le Mexique](mexique.md)
