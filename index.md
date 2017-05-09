@@ -2,7 +2,7 @@
 
 Ce site est un TP de CMS sur le thème de Trump.
 
-[index.md] Biographie | Campagne et élections | Son programme | L'économie américaine | Sa popularité
+[index] Biographie | Campagne et élections | Son programme | L'économie américaine | Sa popularité
 
 ### Une brève biographie de Donald Trump
 
