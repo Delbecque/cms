@@ -1,5 +1,7 @@
 ### Les premières mesures de Trump
 
+[Biographie](index.md) | [Campagne et élections](campagne.md) | [Son programme](programme.md) | [L'économie américaine](économie.md) | [Sa popularité](popularité.md)
+
 Le président américain, qui a prêté serment hier, a aussitôt fait de démettre de leurs fonctions les ambassadeurs américains en poste à l’étranger sans pour autant nommer pour chacun d’entre eux un remplaçant.
 Selon le journal The Independent, il s’agit de 80 ambassadeurs et représentants américains à travers le monde.
 Cette mesure prise par Donald Trump inquiète beaucoup les Américains. Les analystes politiques ont expliqué que les États-Unis pourraient être dépourvus de représentation diplomatique pour plusieurs mois dans un grand nombre de pays, ce qui engendrerait donc un arrêt des relations diplomatiques directes des États-Unis.
