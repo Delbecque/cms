@@ -7,12 +7,14 @@ Il se prononce pour un protectionnisme renforcé et la renégociation de traité
 ### Immigration
 
 Les Etats-Unis comptent environ 11 millions d'immigrés clandestins. Le cas des enfants nés sur le sol américain mais dont les parents sont des immigrés illégaux plonge des milliers de couples et de familles dans des situations administratives inextricables.
+
 **CE QUE PROPOSE TRUMP**
 Il est pour l’expulsion de 5 à 6,5 millions d’immigrés clandestins, l’abrogation du droit du sol et le durcissement des conditions d’accueil des réfugiés. Une peine de prison fédérale de deux ans minimum sera aussi imposée à tous les immigrants clandestins expulsés qui reviendraient aux États-Unis. A plusieurs reprises, Donald Trump a plaidé pour la construction d’un mur entre le Mexique et les Etats-Unis, aux frais des Mexicains. Il a accusé la population immigrée venue de ce pays «d’apporter de la drogue, le crime. Ce sont des violeurs».  
  
 ### Lutte contre le terrorisme
 
 Les Etats-Unis ont essuyé plusieurs attentats meurtriers revendiqués par les terroristes de l'organisation Etat islamique. Le pays est à la tête de la coalition internationale qui intervient militairement dans la zone syro-irakienne.  
+
 **CE QUE PROPOSE TRUMP**
 Il veut mettre la main sur le pétrole de la région pour priver Daech de ressources et souhaite collaborer militairement avec la Russie et les pays du Moyen-Orient. Il dit avoir aussi un «plan secret» pour lutter contre l’organisation terroriste. Sur le territoire national, il a déclaré vouloir interdire l’entrée des Etats-Unis aux musulmans, avant de revenir sur ses propos. Il est favorable à la ré-autorisation de la torture et à l’emploi de la menace nucléaire.
 
@@ -31,6 +33,7 @@ D’abord contre toute augmentation, il a finalement déclaré vouloir rehausser
 ### Lutte contre la délinquance
 
 La criminalité baisse de manière continue depuis les années 1990. Mais le nombre d'homicides reste très élevé dans les quartiers pauvres des grandes villes.  
+
 **CE QUE PROPOSE TRUMP**
 Il est pour les contrôles de police inopinés et les fouilles au corps systématiques. Selon lui, cette pratique a permis de faire baisser la délinquance à New York.
  
@@ -46,6 +49,7 @@ Il est pour une restructuration de la dette des étudiants, mais en confiant cet
 ### Contrôle des armes à feu
 
 Environ 12 000 personnes sont tuées chaque année par des armes à feu aux Etats-Unis. Le phénomène des fusillades de masse, où des innocents sont massacrés par des déséquilibrés, ne faiblit pas. La tuerie de l'école Sandy Hook en 2012, au cours de laquelle 20 enfants ont été abattus, a profondément choqué le pays, sans pour autant remettre en cause le droit à porter une arme (Second Amendement de la Constitution).
+
 **CE QUE PROPOSE TRUMP**
  Il est soutenu par le lobby des armes, la NRA. Opposé aux contrôles sur les antécédents des acheteurs, il plaide pour la création d'un permis de port d’arme valable dans l’ensemble des Etats.
 
@@ -58,21 +62,25 @@ Le droit à l'interruption volontaire de grossesse fait encore débat aux Etats-
 ### Assurance maladie
 
 Le président Obama a instauré une assurance maladie universelle (Obamacare), permettant d'offrir une couverture à dix millions d'Américains. Cependant, l'accès aux soins reste difficile en raison des coûts très élevés, notamment pour les médicaments.  
+
 **CE QUE PROPOSE TRUMP**
 Il est pour la suppression d’Obamacare, la couverture universelle mise en place par le président sortant. A la place, il propose de déduire les frais d’assurance maladie de la déclaration de revenus et la possibilité de léguer en héritage les comptes épargne santé. Comme s'était prononcée Hillary Clinton, il est pour l’ouverture du marché des médicaments pour faire baisser les prix.  
  
 ### Energie et réchauffement climatique
 
 Les Etats-Unis et la Chine sont les deux principaux pollueurs de la planète. Signataires des accords de Paris lors de la COP21, ils doivent passer de la parole aux actes pour lutter contre le réchauffement climatique. La question est loin de faire consensus aux Etats-Unis : Donald Trump et la plupart des élus du Parti républicain ne croient pas au rôle de l'Homme dans le changement climatique.  
+
 **CE QUE PROPOSE TRUMP**
 Il ne croit pas au réchauffement climatique («une invention des Chinois pour rendre l'industrie américaine non compétitive», a-t-il dit sur Twitter) et n’entend pas appliquer le traité de Paris (Cop21). Il souhaite annuler les milliards de dollars de paiements prévus aux Nations unies pour les programmes visant à lutter contre le changement climatique. Il veut relancer les mines de charbon pour créer des emplois. Il prévoit aussi de relancer le projet d'oléoduc Keystone XL, un gigantesque projet américano-canadien auquel le président Barack Obama a mis son veto en février 2015.
  
 ### Régulation de la finance
 
 La crise des «subprimes» de 2008 a montré la dangerosité des pratiques de Wall Street, qui peuvent déstabiliser l'ensemble de l'économie mondiale. En 2010, la loi Dodd-Frank a tenté de réformer le système pour mieux identifier et réduire les risques de crise majeure. Mais cette loi propose une régulation de la finance trop souple et facilement contournable, jugent certains analystes.
+
 **CE QUE PROPOSE TRUMP**
 Il veut démanteler les régulations instaurées par la loi Dodd-Frank après la crise financière de 2008. Bien qu'il estime que «Wall Street a causé d'énormes problèmes», il veut réduire les pouvoirs de tutelle des autorités et laisser les banques réguler le système. Il veut faciliter l'obtention de crédits pour les petites entreprises.
 
 À lire également : 
 [Quelles mesures ont déjà étéprises ?](PremieresMesures.md)
+
 [Trump et le Mexique](mexique.md)
