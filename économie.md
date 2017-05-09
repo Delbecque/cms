@@ -1,5 +1,7 @@
 ### L’économie américaine
 
+[Biographie](index.md) | [Campagne et élections](campagne.md) | [Son programme](programme.md) | [L'économie américaine](économie.md) | [Sa popularité](popularité.md)
+
 C’est une histoire qui avait débuté en fanfare. La bourse américaine aimait Trump, ou plutôt une partie de son programme : les baisses d'impôt et la relance de l'économie par l'investissement public que le milliardaire a promises. Car qui dit croissance dit profit des entreprises, donc cours boursiers en hausse. Mais cette lune de miel n'a pas duré, car les premières mesures de la Maison-Blanche ont désarçonné les patrons. Ils ont maintenant compris que le Trump de la campagne électorale, imprévisible, n'avait pas disparu. Et qu'un certain nombre de promesses du candidat, qu'ils avaient mis sur le compte de la rhétorique de meeting, allaient être mises en oeuvre.
 
 Qu'est-ce qui a provoqué ce retournement ? D'abord l'interdiction des ressortissants de sept pays musulmans sur le sol américain, que les grands patrons de la côte ouest ont publiquement critiquée, non pas seulement pour des raisons politiques ou morales, mais pour des raisons économiques. La Silicon Valley doit son dynamisme en partie des talents du monde entier qu'elle attire, exactement comme elle attirait les chercheurs d'or d'il y a 150 ans.
