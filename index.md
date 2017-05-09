@@ -13,4 +13,4 @@ Engagé en politique à partir des années 1980, il devient de façon inattendue
 Sa victoire à l'élection présidentielle de novembre 2016 face à la candidate démocrate Hillary Clinton déjoue la plupart des pronostics. À sa prise de fonction, il est le président américain le plus âgé (70 ans) et le plus riche jamais élu. Il est également le premier candidat qui accède à la présidence sans jamais avoir exercé de fonction politique ou militaire.
 Dès son installation au pouvoir, il signe une série de décrets présidentiels qui provoquent de fortes polémiques aussi bien au niveau national qu'international.
 
-[Image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/480px-Donald_Trump_official_portrait.jpg)
+![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/480px-Donald_Trump_official_portrait.jpg)
