@@ -12,6 +12,5 @@ Célébrité médiatique aux États-Unis dès les années 1980, impliqué dans l
 Engagé en politique à partir des années 1980, il devient de façon inattendue le candidat du Parti républicain à l'issue des primaires de 2016. Candidat singulier dans l'histoire politique américaine, Trump mène une campagne atypique, avec une équipe relativement réduite et un usage intensif des réseaux sociaux, en particulier de Twitter. Se présentant comme un adversaire de l'establishment et du politiquement correct, il se distingue également par un ton très polémique et par un discours populiste, réactionnaire, nationaliste, isolationniste, protectionniste et climato-sceptique, ainsi que par des propositions radicales visant à réduire l'immigration et de nombreuses contre-vérités.
 Sa victoire à l'élection présidentielle de novembre 2016 face à la candidate démocrate Hillary Clinton déjoue la plupart des pronostics. À sa prise de fonction, il est le président américain le plus âgé (70 ans) et le plus riche jamais élu. Il est également le premier candidat qui accède à la présidence sans jamais avoir exercé de fonction politique ou militaire.
 Dès son installation au pouvoir, il signe une série de décrets présidentiels qui provoquent de fortes polémiques aussi bien au niveau national qu'international.
-```mardown
-![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/480px-Donald_Trump_official_portrait.jpg)
-```
+
+[Image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/480px-Donald_Trump_official_portrait.jpg)
