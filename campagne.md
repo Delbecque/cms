@@ -1,6 +1,6 @@
 ## Campgne et élections
 
-[index] Biographie | [campagne] Campagne et élections | Son programme | L'économie américaine | Sa popularité
+[Biographie](index.md) | [Campagne et élections](campagne.md) | [Son programme](programme.md) | [L'économie américaine](économie.md) | [Sa popularité](popularité.md)
 
 Donald Trump, Hillary Clinton, une campagne présidentielle hallucinante, et moult remous outre-Atlantique. La campagne présidentielle américaine a été ponctuée de rebondissements spectaculaires. Telles des boules de flipper, les scandales ont éclaboussé successivement la candidate démocrate Hillary Clinton et le candidat républicain Donald Trump.
 
